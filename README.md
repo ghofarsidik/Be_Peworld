@@ -31,7 +31,7 @@
 
 
 
-## About The Project 🍴
+## About The Project 🖥️
 
 The back-end for **Peworld** was crafted by [muhammadrisano](https://github.com/muhammadrisano). The source code is available for exploration, as I have forked it from the original repository. It contains all the necessary files and documentation to develop and operate the server side of this application. Many thanks to [muhammadrisano](https://github.com/muhammadrisano) for their contribution to this back-end project.
 
